@@ -4,4 +4,5 @@ to_do_list = []
 while True:
     user_text = input(user_input_prompt)
     to_do_list.append(user_text)
+    
 print(todo_list)
